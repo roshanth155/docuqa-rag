@@ -112,8 +112,8 @@ docuqa-rag/
 
 ## Team
 
-- [Name 1] ([USN 1])
-- [Name 2] ([USN 2])
+- [Roshanth.V] ([1BM23AI155])
+- [SS Gokula] ([1BM23AI158])
 
 Faculty in-charge: Upeksha Prasad G, Department of Machine Learning, BMSCE
 
